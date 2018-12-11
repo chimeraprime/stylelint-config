@@ -1,0 +1,19 @@
+{
+  "name": "@chimeraprime/stylelint-config",
+  "version": "1.0.0",
+  "description": "Chimera Prime stylelint config",
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chimeraprime/stylelint-config.git"
+  },
+  "author": "Chimera Prime",
+  "license": "MIT",
+  "peerDependencies": {
+    "stylelint": ">= 9.0.0"
+  }
+}
