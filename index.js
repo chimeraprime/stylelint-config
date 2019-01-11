@@ -9,9 +9,6 @@ module.exports = {
     "declaration-block-trailing-semicolon": "always",
     "declaration-colon-space-after": "always",
     "declaration-colon-space-before": "never",
-    "declaration-no-important": [true, {
-      "severity": "warning",
-    }],
     "font-family-name-quotes": "always-unless-keyword",
     "font-family-no-duplicate-names": true,
     "font-family-no-missing-generic-family-keyword": true,
